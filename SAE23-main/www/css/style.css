@@ -1,0 +1,42 @@
+.page_test {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+  }
+
+table,
+td {
+    border: 1px solid #333;
+}
+
+thead,
+tfoot {
+    background-color: #333;
+    color: #fff;
+}
+
+.graph {
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+}
+
+.top {
+    width: 100%;
+    text-align: center;
+    background-color: darkgray;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    justify-content: center;
+    align-items: center;
+}
+
+
+@media (max-width: 1200px) {
+    .top {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+    }
+}

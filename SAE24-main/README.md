@@ -1,0 +1,1 @@
+L'objectif du SAE24 est de construire suite à l'apprentissage du module SCAPY, un exploit en python qui permettra de sniffer le réseau et récupérer les identifiant FTP mais aussi le ou les fichiers qui sont transféré. De plus, nous devons récupérer des connexions telnet et http.

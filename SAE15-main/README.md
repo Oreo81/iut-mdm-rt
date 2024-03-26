@@ -1,0 +1,1 @@
+Le but du SAE 15 est d'analyser un fichier log apache 2 avec Python et d'en sortir une carte (html) et des graphiques. L'itérer final du SAE nous permet de nous mettre dans des conditions professionnelles dans lequel on se retrouve devant un supérieur pour lui montrer différentes statistiques de manière lisible.
